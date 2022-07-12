@@ -35,7 +35,3 @@ Meu nome é Cassyo Fernando, nasci em 1990, sou apaixonado na área de T, redes 
   </p>
   
   
-
-</ corpo >
-
-</ html >
